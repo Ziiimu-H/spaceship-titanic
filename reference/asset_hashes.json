@@ -1,0 +1,10 @@
+{
+  "reference/kaggle_dataset/member_oof_seed42.csv": "45e040e167f2720d5652db642bad2bb52da04bd3747c567aa73439d1fb6b72a1",
+  "reference/kaggle_dataset/member_test_seed42.csv": "11d047169fa79e6bd51eab157f55b8258f47d84826dd584ce2996b3eea5eff16",
+  "results/cat_context_d8.npz": "94502546d01d0147f30329d523480da154ead07368f56937a0dc61ec790a1418",
+  "results/lgb_context.npz": "bd29c0d200cca7cc3fbd40cd5a1b79aed72b3d9e7f5a7a8bead1c1f65ba5a34d",
+  "results/cat_context_d8.json": "1798f709b7ca33c3daa17d860202cd29034f19c3e2ca1c20944cc1596ae633d9",
+  "results/lgb_context.json": "91ebcacccbf06d944f1a41ea73a0ae6a377472b949fc751bacb185a93cc2935d",
+  "reference/NOTICE.md": "ae62d3e664a53dc792c43b46db1c70640251a19f6c33bd37fdae338b5db63e5d",
+  "reference/kaggle_dataset/README.md": "9fc5201cfde77718e17171ae17d1de7d90acd27e91154fd72310b2f8d0ac3acc"
+}

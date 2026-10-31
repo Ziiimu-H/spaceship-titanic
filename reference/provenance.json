@@ -1,0 +1,19 @@
+{
+  "source_url": "https://www.kaggle.com/code/kalidenaiarys/spaceship-titanic-tabpfn-catboost-lb-0-82534",
+  "source_notebook_version": 2,
+  "source_notebook_sha256": "59ef8a508efc6a0236857de28fa5d44838756e32c4fda3c270eb36d1764290a6",
+  "original_probability_author": "TaeyanG4",
+  "probability_dataset": "https://www.kaggle.com/datasets/taeyangg4/spaceship-titanic-tabpfn-member-predictions",
+  "source_repository": "https://github.com/TaeyanG4/kaggle-spaceship-titanic-experiments",
+  "source_commit": "332fd48f70a810432362c1e27c9bc00ae3554cec",
+  "probability_license": "CC BY 4.0; unchanged probability files, retain attribution",
+  "reported_scores_not_measured_locally": {
+    "tabpfn_baseline": 0.82604,
+    "tabpfn_catboost_blend": 0.82534
+  },
+  "expected_submission_hashes": {
+    "tabpfn_baseline": "cba1b98a2a8ad88ed7a5d00113963bb64dfcf9ae9c37bd45bf700f2817953431",
+    "tabpfn_catboost_blend": "d171afa54c18e5cab46dd570d0283c193bc616d10ae186a82a8a57c345e613f5"
+  },
+  "note": "Reuses public TabPFN and tree-model probabilities. Does not train TabPFN or claim own leaderboard scores."
+}
