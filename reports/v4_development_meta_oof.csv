@@ -1,0 +1,5 @@
+model,development_meta_oof_accuracy
+tabpfn_baseline,0.8311284941907282
+tabpfn_spline,0.8319337397906361
+tabpfn_cat_logistic,0.8321638099620384
+tabpfn_catboost_blend,0.8321638099620384

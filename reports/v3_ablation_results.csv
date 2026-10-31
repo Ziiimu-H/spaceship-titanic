@@ -1,0 +1,6 @@
+model,stage,variant,oof_accuracy
+ablate_no_surname,ablation,no_surname,0.816058897963879
+v2_baseline,ablation,full,0.8154837225353733
+ablate_no_group_id,ablation,no_group_id,0.8145634418497641
+ablate_no_group_fill,ablation,no_group_fill,0.8109973541930289
+ablate_no_spend_features,ablation,no_spend_features,0.8105372138502244

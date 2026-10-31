@@ -1,0 +1,12 @@
+model,stage,variant,oof_accuracy
+v2_baseline,ablation,full,0.8154837225353733
+ablate_no_group_id,ablation,no_group_id,0.8145634418497641
+ablate_no_surname,ablation,no_surname,0.816058897963879
+ablate_no_group_fill,ablation,no_group_fill,0.8109973541930289
+ablate_no_spend_features,ablation,no_spend_features,0.8105372138502244
+tune_d4_l3,tuning,no_surname,0.8135281260784539
+tune_d4_l10,tuning,no_surname,0.8128379155642471
+tune_d6_l3,tuning,no_surname,0.8146784769354654
+tune_d6_l10,tuning,no_surname,0.8176693891636949
+tune_d8_l3,tuning,no_surname,0.8167491084780858
+tune_d8_l10,tuning,no_surname,0.8146784769354654

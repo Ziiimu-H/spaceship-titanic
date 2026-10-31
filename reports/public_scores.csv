@@ -1,0 +1,6 @@
+stage,method,public_accuracy,origin,evidence
+v1,Random forest,0.80032,locally_trained,user_reported_submission_result
+v2,CatBoost with engineered features,0.80593,locally_trained,user_reported_submission_result
+v3,Retained v2 after unsuccessful experiments,0.80593,identical_to_v2,user_reported_unchanged_result
+v4_baseline,Four public TabPFN probabilities with logistic regression,0.82604,public_probability_replay,user_provided_Kaggle_submission_screenshot_2026-10-31
+v4_blend,Public TabPFN and CatBoost stack blend,0.82534,public_probability_replay,user_provided_Kaggle_submission_screenshot_2026-10-31
